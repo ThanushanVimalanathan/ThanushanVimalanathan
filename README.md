@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ThanushanVimalanathan</h1>
+<h1 align="center">Hi 👋, I'm Thanushan Vimalanathan</h1>
 <h3 align="center">A passionate front-end and Back-end developer from Sri Lanka</h3>
 <img align="right" alt="Cooding" width="400" src="https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg"
 
