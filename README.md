@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ThanushanVimalanathan&label=Profile%20views&color=0e75b6&style=flat" alt="ThanushanVimalanathan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ThanushanVimalanathan&theme=" alt="ThanushanVimalanathan" /></a> </p>
+ 
 
 - 🔭 I’m currently working on **MERN Stack Projects**
 - 🤝 I’m looking for help with **AI/ML**
